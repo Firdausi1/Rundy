@@ -1,0 +1,55 @@
+.occasion{
+    width: 85%;
+    margin: 0 auto;
+}
+
+.occasion-body{
+    display: flex;
+    justify-content: space-between;
+}
+.occasion-box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 32%;
+    color: white;
+    padding: 40px 0;
+}
+
+.home{
+    background-color: #A0A4CC;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.occasion-text{
+    width: 50%;
+}
+
+.occasion-text h2{
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+.occasion-text p{
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.occasion-image{
+    text-align: center;
+}
+
+.occasion-image img{
+    margin-bottom: 20px;
+}
+
+.work-space{
+    background-color: #63ABC2;
+}
+
+.gift{
+    background-color: #CCA0BD;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}

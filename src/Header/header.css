@@ -1,0 +1,45 @@
+header{
+    width: 85%;
+    margin: 0 auto;
+    height: 80vh;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-text{
+    width: 45%;
+}
+
+.header-image{
+    width: 50%;
+}
+
+.header-image img{
+    width: 100%;
+}
+
+.header-text h1{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 130%;
+    margin-bottom: 0;
+}
+
+.header-text p{
+    margin-top: 0;
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+
+.header-btn{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px 40px;
+    width: 40%;
+}

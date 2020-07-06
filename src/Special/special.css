@@ -1,0 +1,25 @@
+.special{
+    position: relative;
+    width: 85%;
+    margin: 10% auto;
+    background-color: #FAF1ED;
+    text-align: center;
+    padding: 5% 0;
+}
+
+.special p{
+    padding-bottom: 3%;
+    font-size: 24px;
+}
+
+.image1{
+    position: absolute;
+    top: -60px;
+    left: -20px;
+}
+
+.image2{
+    position: absolute;
+    top: -60px;
+    right: -15px;
+}
