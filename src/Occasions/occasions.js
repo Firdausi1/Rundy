@@ -21,7 +21,7 @@ function Uses() {
                         <p>Freshly picked flowers for your personal use</p>
                     </div>
                     <div className="occasion-image"> 
-                        <div><img src="./Images/Group (1).svg"/></div>
+                        <div><img src="./Images/Group (2).svg"/></div>
                         <a className="btn-secondary">view</a>
                     </div>
                 </div>
@@ -31,7 +31,7 @@ function Uses() {
                         <p>Freshly picked flowers for your personal use</p>
                     </div>
                     <div className="occasion-image"> 
-                        <div><img src="./Images/Group (1).svg"/></div>
+                        <div><img src="./Images/Group (3).svg"/></div>
                         <a className="btn-secondary">view</a>
                     </div>
                 </div>
