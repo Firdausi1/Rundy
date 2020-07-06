@@ -1,5 +1,9 @@
 nav{
     background-color: #ffffff;
+    min-height: 10vh;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
 }
 
 .nav{
